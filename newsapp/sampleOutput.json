@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Thousands in Hong Kong volunteer to adopt hamsters amid COVID-19 fears - Reuters",
+      "description": "Thousands of people in Hong Kong volunteered on Wednesday to adopt unwanted hamsters after a mass cull order from the government over COVID-19 fears raised alarm that panicky owners would abandon their pets.",
+      "url": "https://www.reuters.com/world/china/hong-kongs-covid-19-hamster-cull-sparks-fear-owners-abandoning-pets-2022-01-19/",
+      "urlToImage": "https://www.reuters.com/resizer/Ky0eyTx78oBPxNwK8EzkWw7UtG0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/HQKX75ETGZINRHVTACKJKKW3EE.jpg",
+      "publishedAt": "2022-01-19T12:32:00Z",
+      "content": "HONG KONG, Jan 19 (Reuters) - Thousands of people in Hong Kong volunteered on Wednesday to adopt unwanted hamsters after a mass cull order from the government over COVID-19 fears raised alarm that pa… [+4032 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KTRK-TV" },
+      "author": "ZEKE MILLER and MATT O'BRIEN",
+      "title": "USPS COVID test free: Some tech issues arise with soft launch of White House site for COVID-19 tests - KTRK-TV",
+      "description": "Some tech issues became apparent amid the soft launch of the White House's COVID test site that uses USPS to deliver.",
+      "url": "https://abc13.com/usps-covid-test-free-tests-postal-service-home/11486897/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/11486952_011922-wls-diane-tests-430a-vid.jpg?w=1600",
+      "publishedAt": "2022-01-19T11:03:45Z",
+      "content": "WASHINGTON -- The Biden administration on Tuesday quietly launched its website for Americans to request free at-home COVID-19 tests, a day before the site was scheduled to officially go online.The we… [+4109 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deseret News" },
+      "author": "Herb Scribner",
+      "title": "Omicron variant symptoms: This symptom could predict COVID infection - Deseret News",
+      "description": "What omicron variant symptoms predicts COVID-19 infection? Which omicron variant symptoms mean you have COVID?",
+      "url": "https://www.deseret.com/coronavirus/2022/1/18/22889271/omicron-variant-symptom-predict-covid-19-infection",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/jBT2NHDkkhs-VY0Dk61zuhM5Nzg=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23177422/coviddiagram.jpg",
+      "publishedAt": "2022-01-19T03:30:00Z",
+      "content": "Cases of the omicron variant of the novel coronavirus are soaring throughout the country. But there are still people who havent been infected yet. So what omicron variant symptoms could predict an in… [+1344 chars]"
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Alejandra O'Connell-Domenech",
+      "title": "Researchers find genetic link to COVID-induced loss of smell and taste - The Hill",
+      "description": "A new study suggests that a particular locus near two olfactory genes increases a person's chance of losing smell or taste after contracting the virus.",
+      "url": "https://thehill.com/changing-america/well-being/medical-advances/590271-researchers-find-genetic-link-to-covid-induced",
+      "urlToImage": "https://thehill.com/sites/default/files/ca_covidtesting_istock.jpg",
+      "publishedAt": "2022-01-18T22:30:12Z",
+      "content": "Scientists are potentially one step closer to understanding why some people lose their sense of smell or taste after contracting COVID-19.  \r\nA team of researchers have identified a genetic risk fact… [+1760 chars]"
+    }
+  ]
+}
